@@ -465,7 +465,7 @@ def show():
         #### 📂 Datos del Proyecto
         
         - [📁 Dataset de Distritos (CSV)](https://drive.google.com/file/d/1SNs8f4taodcHjGFr-Fc6YX26x9Q9L1Vr/view?usp=sharing)
-        - [📁 Imágenes Satelitales (GeoTIFF)](https://drive.google.com/drive/folders/1NghUOKzOSAf_2H-v8wKR4J7o9_cKdcc2?usp=sharing)
+        - [📁 Imágenes Satelitales (GeoTIFF)](  )
         - [📁 Repositorio del Proyecto](https://github.com/Alexssbs/web_puno_benchmark)
         """)
     
