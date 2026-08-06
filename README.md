@@ -277,7 +277,7 @@ Ejecuta las celdas de evaluación para obtener las métricas reportadas.
 
 # 👨‍💻 Autor
 
-**Alex Chura **
+**Alex Chura**
 
 ---
 <div align="center">
