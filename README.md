@@ -8,7 +8,6 @@ Perfecto. Aquí tienes el **README.md** actualizado con la sección del pipeline
 # 🌍 Benchmarking Foundation Models para Predicción de Pobreza
 
 <div align="center">
-  <img src="assets/logo.png" alt="Logo" width="200">
   <br>
   <p><strong>Análisis comparativo de GFMs en los Andes Peruanos - Puno 2018</strong></p>
   <p>
@@ -276,16 +275,16 @@ Ejecuta las celdas de evaluación para obtener las métricas reportadas.
 
 ---
 
-## 🤝 Contribuciones
+# 👨‍💻 Autor
 
-Las contribuciones son bienvenidas. Por favor:
-
-1. Haz un Fork del proyecto
-2. Crea tu rama de características (`git checkout -b feature/AmazingFeature`)
-3. Commit de tus cambios (`git commit -m 'Add some AmazingFeature'`)
-4. Push a la rama (`git push origin feature/AmazingFeature`)
-5. Abre un Pull Request
+**Alex Chura **
 
 ---
+<div align="center">
 
+### 🌍 Benchmarking Foundation Models para Predicción de Pobreza
+
+*Desarrollado  utilizando Streamlit, PyTorch y Google Earth Engine.*
+
+</div>
 
