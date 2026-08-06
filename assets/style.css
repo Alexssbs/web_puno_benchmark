@@ -1,0 +1,40 @@
+/* Estilos personalizados para el dashboard */
+
+.stApp {
+    background-color: #f8f9fa;
+}
+
+.stMetric {
+    background-color: white;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.stMetric .stMetricValue {
+    font-size: 28px;
+    font-weight: bold;
+}
+
+/* Títulos */
+h1, h2, h3 {
+    color: #2C3E50;
+}
+
+/* Sidebar */
+.css-1d391kg {
+    background-color: #ffffff;
+    border-right: 1px solid #e0e0e0;
+}
+
+/* Botones */
+.stButton button {
+    border-radius: 8px;
+    font-weight: 500;
+}
+
+/* Tarjetas de información */
+div[data-testid="stExpander"] {
+    border-radius: 10px;
+    border: 1px solid #e0e0e0;
+}
