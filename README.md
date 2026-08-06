@@ -249,8 +249,8 @@ MAE: SatMAE (6.97)  < DINOv2 (7.04)   < ResNet50 (7.23)   < ViT (7.92)
 
 Los datos utilizados en este proyecto están disponibles en Google Drive:
 
-- [📁 Imágenes Satelitales (GeoTIFF)]([https://drive.google.com/drive/folders/ID-DE-TU-CARPETA](https://drive.google.com/drive/folders/1NghUOKzOSAf_2H-v8wKR4J7o9_cKdcc2?usp=sharing))
-- [📁 Miniaturas JPG](Ubicado en la carpeta data/)
+- [📁 Imágenes Satelitales (GeoTIFF)](https://drive.google.com/drive/folders/1NghUOKzOSAf_2H-v8wKR4J7o9_cKdcc2?usp=sharing)
+- [📁 Miniaturas JPG (Ubicado en la carpeta data/)
 - [📁 Dataset de Distritos (CSV)](https://drive.google.com/file/d/1SNs8f4taodcHjGFr-Fc6YX26x9Q9L1Vr/view?usp=sharing)
 
 > **Nota:** Las imágenes GeoTIFF son archivos grandes (~50 MB cada uno). Las miniaturas JPG están optimizadas para visualización en el dashboard.
