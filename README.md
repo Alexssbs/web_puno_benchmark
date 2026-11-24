@@ -1,8 +1,4 @@
 ---
-
-## 📄 **README.md** (Actualizado)
-
-
 # 🌍 Benchmarking Foundation Models para Predicción de Pobreza
 
 <div align="center">
