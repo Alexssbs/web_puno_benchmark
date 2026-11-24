@@ -1,5 +1,3 @@
-Perfecto. Aquí tienes el **README.md** actualizado con la sección del pipeline.
-
 ---
 
 ## 📄 **README.md** (Actualizado)
